@@ -1,0 +1,5 @@
+# Ignore data, as it can be downloaded easy
+*.csv
+
+# Ignore checkpoints
+*checkpoint.ipynb
